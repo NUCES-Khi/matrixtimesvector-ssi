@@ -3,9 +3,9 @@
 ## Team Members
 |std_id|Name|
 |--------|-|
-|k20-1234|Amjad Sajid|
-|k20-4321|Majid Sajid|
-|k20-2143|Sajjaad Sajid|
+|k21-4704|Qazi Sarim|
+|k21-3086|Abdul Sammad|
+|k21-3075|Izaan Ahmed|
 
 ## Assingment 1 ##
 Status: **In progress**
